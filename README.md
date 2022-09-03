@@ -1,16 +1,21 @@
-### Hi there 👋
+# Quartz
+Quartz is a project simmilar to TN. We make Unblockers, Webproxys, And More
 
-<!--
-**QuartzWork/QuartzWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Members
+- Founder: @Companioncubegd
+- Co-Founder: @Theethonic
 
-Here are some ideas to get you started:
+# List Of Projects
+- Opacity (Minimal Unblocker) - Run By @Companioncubegd
+- Kobaltuim (Full-Featured Unblocker) - Run By @theethonic
+- Daybreak (Full-Featured Unblocker) - Run By @Companioncubegd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Meth0d (List of methods for bypassing school) - Run By @Companioncubegd
+- BloxDox (Documentation For All Of Our Projects) - Run By @companioncubegd & @theethonic
+
+- WebGarcH (Web Game Archive, Including Flash Games, HTMl5 Games, And Emulators) - Run By @Companioncubegd
+- Cloaker (Website Cloaker Script) - Run By @Companioncubegd
+- Embed (Scripts For Embed Webproxy Search Boxes) - Run By @Companioncubegd
+- About#Cloak (Method Of Hiding Screen From Teachers - Run By @Companioncubegd & @theethonic
+
+- nBloK (Webproxy) - Run By @Companioncubegd
