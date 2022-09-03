@@ -2,20 +2,20 @@
 Quartz is a project simmilar to TN. We make Unblockers, Webproxys, And More
 
 # Members
-- Founder: @Companioncubegd
-- Co-Founder: @Theethonic
+- Founder: Companioncubegd
+- Co-Founder: Theethonic
 
 # List Of Projects
-- Opacity (Minimal Unblocker) - Run By @Companioncubegd
-- Kobaltuim (Full-Featured Unblocker) - Run By @theethonic
-- Daybreak (Full-Featured Unblocker) - Run By @Companioncubegd
+- Opacity (Minimal Unblocker) - Run By Companioncubegd
+- Kobaltuim (Full-Featured Unblocker) - Run By theethonic
+- Daybreak (Full-Featured Unblocker) - Run By Companioncubegd
 
-- Meth0d (List of methods for bypassing school) - Run By @Companioncubegd
-- BloxDox (Documentation For All Of Our Projects) - Run By @companioncubegd & @theethonic
+- Meth0d (List of methods for bypassing school) - Run By Companioncubegd
+- BloxDox (Documentation For All Of Our Projects) - Run By companioncubegd & theethonic
 
-- WebGarcH (Web Game Archive, Including Flash Games, HTMl5 Games, And Emulators) - Run By @Companioncubegd
+- WebGarcH (Web Game Archive, Including Flash Games, HTMl5 Games, And Emulators) - Run By Companioncubegd
 - Cloaker (Website Cloaker Script) - Run By @Companioncubegd
-- Embed (Scripts For Embed Webproxy Search Boxes) - Run By @Companioncubegd
-- About#Cloak (Method Of Hiding Screen From Teachers - Run By @Companioncubegd & @theethonic
+- Embed (Scripts For Embed Webproxy Search Boxes) - Run By Companioncubegd
+- About#Cloak (Method Of Hiding Screen From Teachers - Run By Companioncubegd & theethonic
 
 - nBloK (Webproxy) - Run By @Companioncubegd
