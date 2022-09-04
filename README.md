@@ -12,7 +12,7 @@ FINISHED:
 - Opacity (Minimal Unblocker) - Run By Companioncubegd
 
 IN DEVELOPMENT:
-- Meth0d (List of methods for bypassing school) - Run By Companioncubegd
+- Meth0d (List of methods for bypassing school) - Run By Companioncubegd & theethonic
 - BloxDox (Documentation For All Of Our Projects) - Run By companioncubegd & theethonic
 - WebGarcH (Web Game Archive, Including Flash Games, HTMl5 Games, And Emulators) - Run By Companioncubegd
 
@@ -21,7 +21,7 @@ NOT STARTED:
 - Daybreak (Full-Featured Unblocker) - Run By Companioncubegd
 - Cloaker (Website Cloaker Script) - Run By @Companioncubegd
 - Embed (Scripts For Embed Webproxy Search Boxes) - Run By Companioncubegd
-- About#Cloak (Method Of Hiding Screen From Teachers - Run By Companioncubegd & theethonic
+- About#Cloak (Method Of Hiding Screen From Teachers) - Run By Companioncubegd & theethonic
 - nBloK (Webproxy) - Run By @Companioncubegd
 
 # Insperation
