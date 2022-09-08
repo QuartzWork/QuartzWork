@@ -26,4 +26,5 @@ NOT STARTED:
 
 # Insperation
 - TN - https://github.com/Titanium-Network
-- Ludicrous https://github.com/LudicrousDevelopment
+- Ludicrous - https://github.com/LudicrousDevelopment
+- General Mathematics - https://github.com/GeneralMathematics
