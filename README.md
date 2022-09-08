@@ -28,3 +28,4 @@ NOT STARTED:
 - TN - https://github.com/Titanium-Network
 - Ludicrous - https://github.com/LudicrousDevelopment
 - General Mathematics - https://github.com/GeneralMathematics
+- Nebula - https://github.com/NebulaServices
